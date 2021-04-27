@@ -1,0 +1,9 @@
+{
+    "PORT": "PORT",
+    "matchitoKey": "matchitoKey",
+    "smsToken": "smsToken",
+    "motherPassword": "motherPassword",
+    "bankToken": "bankToken",
+    "otpSchema": "otpSchema",
+    "activeAuth": "activeAuth"
+}
