@@ -14,7 +14,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-fileupload": "^1.2.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "kavenegar": "^1.1.4",
     "moment-jalaali": "^0.9.2",
     "mysql2": "^2.2.5",
